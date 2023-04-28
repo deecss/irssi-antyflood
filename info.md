@@ -6,7 +6,7 @@
 
 ## Installation
 
-1. Download the `irssi-antispam.pl` script from [https://github.com/dee-/irssi-antispam](https://github.com/dee-/irssi-antispam).
+1. Download the `irssi-antispam.pl` script from [https://github.com/deecss/irssi-antyflood/blob/master/irssi-antispam.pl](https://github.com/deecss/irssi-antyflood/blob/master/irssi-antispam.pl).
 2. Save the script to your Irssi scripts directory (default: `~/.irssi/scripts/`).
 3. Load the script in Irssi using the command `/script load irssi-antispam.pl`.
 
@@ -27,7 +27,7 @@ To change these options, use the `/set` command, for example:
 /set antispam_flood_duration 10
 /set antispam_patterns .spam_pattern1.,.spam_pattern2.
 
-For more information about configuring and using this script, visit [https://github.com/dee-/irssi-antispam](https://github.com/dee-/irssi-antispam).
+For more information about configuring and using this script, visit [https://github.com/deecss/irssi-antyflood/blob/master/irssi-antispam.pl](https://github.com/deecss/irssi-antyflood/blob/master/irssi-antispam.pl).
 
 ## License
 

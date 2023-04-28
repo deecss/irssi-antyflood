@@ -7,7 +7,7 @@ $VERSION = '1.0';
     authors     => 'dee',
     contact     => 'enode@enode.pl',
     name        => 'antispam',
-    description => 'Block spam messages from users with random nicks and idents, as well as repeated vHosts',
+    description => 'Block spam messages from users with random nicks and idents, as well as repeated vhosts',
     license     => 'Public Domain',
 );
 
